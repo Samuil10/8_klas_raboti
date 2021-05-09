@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main () {
-int br=0;
+double br=0;
 double a = 10600;
 for (int i=1; i<=10; i++){
     a=a+(6*a/100);
